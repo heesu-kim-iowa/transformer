@@ -7,4 +7,4 @@
 Have followed up by Feed Forward 
 
 # Source
-[[Tutorial from Tensorflow](https://www.tensorflow.org/tutorials/text/transformer)] [[Python script](https://github.com/Lornatang/TensorFlow2-tutorials/blob/master/Experts_tutorial/Text/transformer.py)]
+[[Tutorial from Tensorflow](https://www.tensorflow.org/tutorials/text/transformer)] [[Python script](https://github.com/Lornatang/TensorFlow2-tutorials/blob/master/Experts_tutorial/Text/transformer.py)] [[Keras version](https://keras.io/examples/nlp/text_classification_with_transformer/)]
